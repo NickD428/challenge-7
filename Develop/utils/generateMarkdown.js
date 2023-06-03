@@ -86,7 +86,7 @@ function renderLicenseSection(license) {
   if (license) {
     return `
     ## License
-    This project is licensed with ${license}`
+    ${data.license}`
   }
 
 }
@@ -112,7 +112,7 @@ function generateMarkdown(data) {
   ${data.test}
   
   ## Author
-  Project created by ${data.username} !
+  Project created by ${data.username}!
   
 `;
 }
