@@ -31,9 +31,10 @@ const questions = [
     message: 'What is a use case for your project?',
  },
  {
-    type: 'input',
+    type: 'list',
     name: 'license',
     message: 'What kind of license are you using?',
+    choices: ['Mozilla', 'MIT', 'Unlicense', 'Eclipse'],
  },
  {
     type: 'input',
