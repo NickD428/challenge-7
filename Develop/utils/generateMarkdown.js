@@ -55,14 +55,13 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## Table of Contents
-
-  -Description of the Project
-  -How to Install the Project
-  -Use cases of the Project
-  -Project License
-  -Ways to Contribute to the project
-  -How to test the project
-  -Questions
+  - [Description](#Description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
   ## Description
   ${data.description}
