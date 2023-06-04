@@ -56,6 +56,14 @@ function generateMarkdown(data) {
 
   ## Table of Contents
 
+  -Description of the Project
+  -How to Install the Project
+  -Use cases of the Project
+  -Project License
+  -Ways to Contribute to the project
+  -How to test the project
+  -Questions
+
   ## Description
   ${data.description}
   
