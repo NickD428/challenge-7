@@ -22,7 +22,7 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   switch (license) {
     case 'MIT':
-      return 'MIT License';
+      return 'https://opensource.org/license/mit/';
       break;
     case 'Eclipse':
       return 'https://opensource.org/license/epl-1-0/';
@@ -43,8 +43,9 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license) {
     return `
-    ## License
-    ${data.license}`
+    This project is covered by the ${data.license} License!
+    Any questions about this please read more here: ${renderLicenseLink(data.license)}
+    `
   } else {
     return '';
   }
