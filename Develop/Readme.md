@@ -10,10 +10,10 @@
   - [Questions](#questions)
 
   ## Description
-  To make an easy to use readme generator for your projects
+  A simple program to make a Readme for any project
   
   ## Installation
-  clone the repo
+  clone the repo 
   
   ## Usage
   To make a high quality readme for your project
@@ -27,7 +27,7 @@
   Contact me
   
   ## Tests
-  clone the repo and run it with nodejs
+  clone the repo and run it with the terminal
   
   ## Questions
   Project created by NickD428!
