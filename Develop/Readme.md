@@ -1,4 +1,4 @@
-# Readme Generator  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+# Coding Quiz  
 
   ## Table of Contents
   - [Description](#Description)
@@ -10,24 +10,24 @@
   - [Questions](#questions)
 
   ## Description
-  A simple program to generate a readme file for your projects
+  A simple quiz to help you study code
   
   ## Installation
-  Clone the repo
+  visit the deployed page at:
   
   ## Usage
-  To create a Readme file for your project
+  studying. feel free to add more questions!
   
   ## License
-  This project is covered by the Mozilla License!
-  Any questions about this please read more here: https://opensource.org/license/mpl-2-0/
+  This project is covered by the None License!
+  Any questions about this please read more here: 
 
 
   ## Contributing
-  Contact me!
+  Create your own fork and submit a pull request
   
   ## Tests
-  clone the repo and run it with nodejs
+  visit the deployed page
   
   ## Questions
   Project created by NickD428!
